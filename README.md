@@ -15,6 +15,7 @@ Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mi
 - React
 - Java (Programación Orientada a Objetos - POO)
 - Phyton (Programación Orientada a Objetos - POO)
+- SQL y NoSQL (MySQL, MongoDB)
 - Git/GitHub para control de versiones
 
 ## 📌 Contenido

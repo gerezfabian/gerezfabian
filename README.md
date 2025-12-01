@@ -46,9 +46,9 @@ Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mi
 
 ## 📫 Contacto
 
-- 📧 Email: gerezfabian@example.com
-- 💼 LinkedIn: [linkedin.com/in/gerezfabian](https://linkedin.com/in/gerezfabian)
-- 🌐 Portafolio: [github.com/gerezfabian](https://github.com/gerezfabian)
+- 📧 Email: <a href="mailto:gerezfabian@gmail.com" target="_blank">gerezfabian@gmail.com</a>  
+- 💼 LinkedIn: <a href="https://linkedin.com/in/gerezfabian" target="_blank">linkedin.com/in/gerezfabian</a>  
+- 🌐 Portafolio: <a href="https://github.com/gerezfabian" target="_blank">github.com/gerezfabian</a>
 
 ## 📌 Contenido
 

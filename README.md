@@ -70,7 +70,3 @@ Al mismo tiempo, disfruto del **Desarrollo Web**, creando interfaces interactiva
 Apasionado por la programación, la automatización y la optimización de procesos. Mi objetivo es convertirme en **Fullstack Developer**, dominando tanto frontend como backend, y documentar cada paso de mi aprendizaje de forma reproducible y profesional.
 
 Este sitio refleja mi camino de aprendizaje y mis metas profesionales.
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT.

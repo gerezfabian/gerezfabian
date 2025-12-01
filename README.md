@@ -40,9 +40,9 @@ Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mi
 
 ## 🔧 Shells
 
-![PowerShell](https://img.shields.io/badge/Shell-PowerShell-blue?logo=powershell)
-
 ![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash)
+
+![PowerShell](https://img.shields.io/badge/Shell-PowerShell-blue?logo=powershell)
 
 ## 📫 Contacto
 

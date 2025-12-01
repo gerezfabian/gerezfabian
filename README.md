@@ -18,6 +18,17 @@ Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mi
 - SQL y NoSQL (MySQL, MongoDB)
 - Git/GitHub para control de versiones
 
+## 💻 Sistemas Operativos
+
+![Linux](https://img.shields.io/badge/Linux-OS-green?logo=linux)
+![Windows](https://img.shields.io/badge/Windows-OS-blue?logo=windows)
+![macOS](https://img.shields.io/badge/macOS-OS-lightgrey?logo=apple)
+
+## 🔧 Terminales y Shells
+
+![PowerShell](https://img.shields.io/badge/Shell-PowerShell-blue?logo=powershell)
+![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash)
+
 ## 📌 Contenido
 
 - Presentación personal

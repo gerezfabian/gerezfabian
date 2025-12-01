@@ -54,10 +54,6 @@ Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mi
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="20" style="vertical-align:middle;"/> linkedin.com/in/gerezfabian
   </a>  
 
-- <a href="https://github.com/gerezfabian" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="20" style="vertical-align:middle;"/> github.com/gerezfabian
-  </a>
-
 ## 📌 Contenido
 
 - Presentación personal

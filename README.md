@@ -1,4 +1,4 @@
-# 🌐 Mi Portfolio Web
+# 🧑‍💻  Hola, soy Gerez Fabián
 
 Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mis habilidades en programación y algunos proyectos destacados que reflejan mi camino en Ingeniería en Sistemas.
 
@@ -40,7 +40,7 @@ Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mi
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de la carrera Licenciatura en Análisis de Sistemas,Curso de manera paralela la Tecnicatura Universitaria en Programación, soy apasionado por el **Desarrollo de Software** en todas sus formas, desde aplicaciones de escritorio hasta sistemas distribuidos, porque me permite aplicar lógica, optimización y escalabilidad.  
+Soy estudiante de la carrera Licenciatura en Análisis de Sistemas, Curso de manera paralela la Tecnicatura Universitaria en Programación, soy apasionado por el **Desarrollo de Software** en todas sus formas, desde aplicaciones de escritorio hasta sistemas distribuidos, porque me permite aplicar lógica, optimización y escalabilidad.  
 
 Al mismo tiempo, disfruto del **Desarrollo Web**, creando interfaces interactivas y aplicaciones fullstack que conectan directamente con los usuarios. 
 

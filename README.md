@@ -4,7 +4,7 @@ Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mi
 
 ## 🚀 Mi Portafolio
 
-[Visita el sitio aquí](https://github.com/gerezfabian?tab=repositories)
+[Link de mis repos](https://github.com/gerezfabian?tab=repositories)
 
 ## 🔧 Tecnologías
 
@@ -30,7 +30,7 @@ Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mi
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-## 💻 Sistemas Operativos
+## 💻 SOs
 
 ![Linux](https://img.shields.io/badge/Linux-OS-green?logo=linux)
 
@@ -38,11 +38,17 @@ Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mi
 
 ![macOS](https://img.shields.io/badge/macOS-OS-lightgrey?logo=apple)
 
-## 🔧 Terminales y Shells
+## 🔧 Shells
 
 ![PowerShell](https://img.shields.io/badge/Shell-PowerShell-blue?logo=powershell)
 
 ![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash)
+
+## 📫 Contacto
+
+- 📧 Email: gerezfabian@example.com
+- 💼 LinkedIn: [linkedin.com/in/gerezfabian](https://linkedin.com/in/gerezfabian)
+- 🌐 Portafolio: [github.com/gerezfabian](https://github.com/gerezfabian)
 
 ## 📌 Contenido
 

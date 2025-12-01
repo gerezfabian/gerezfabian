@@ -46,15 +46,15 @@ Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mi
 
 ## 📫 Contacto
 
-- 📧 <a href="mailto:gerezfabian@gmail.com" target="_blank">
+- <a href="mailto:gerezfabian@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="20" style="vertical-align:middle;"/> gerezfabian@gmail.com
   </a>  
 
-- 💼 <a href="https://linkedin.com/in/gerezfabian" target="_blank">
+- <a href="https://linkedin.com/in/gerezfabian" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="20" style="vertical-align:middle;"/> linkedin.com/in/gerezfabian
   </a>  
 
-- 🌐 <a href="https://github.com/gerezfabian" target="_blank">
+- <a href="https://github.com/gerezfabian" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="20" style="vertical-align:middle;"/> github.com/gerezfabian
   </a>
 

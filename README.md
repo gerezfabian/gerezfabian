@@ -24,6 +24,10 @@ Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mi
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge)
+
+![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -63,7 +67,7 @@ Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mi
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de la carrera Licenciatura en Análisis de Sistemas, Curso de manera paralela la Tecnicatura Universitaria en Programación, soy apasionado por el **Desarrollo de Software** en todas sus formas, desde aplicaciones de escritorio hasta sistemas distribuidos, porque me permite aplicar lógica, optimización y escalabilidad.  
+Soy estudiante de la carrera Licenciatura en Análisis de Sistemas, Curso de manera paralela la Tecnicatura en Seguridad Informática, soy apasionado por el **Desarrollo de Software** en todas sus formas, desde aplicaciones de escritorio hasta sistemas distribuidos, porque me permite aplicar lógica, optimización y escalabilidad.  
 
 Al mismo tiempo, disfruto del **Desarrollo Web**, creando interfaces interactivas y aplicaciones fullstack que conectan directamente con los usuarios. 
 

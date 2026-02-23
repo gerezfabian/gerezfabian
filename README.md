@@ -1,6 +1,6 @@
 # 🧑‍💻  Hola, soy Gerez Fabián A.
 
-Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mis habilidades y algunos proyectos destacados que reflejan mi profesionalismo.
+Esta es mi carta de presentación digital. Aquí muestro quién soy, mis habilidades y algunos proyectos destacados que reflejan mi perfil profesional.
 
 ## 🚀 Mi Portafolio
 
@@ -57,13 +57,6 @@ Este proyecto es mi carta de presentación digital. Aquí muestro quién soy, mi
 - <a href="https://linkedin.com/in/gerezfabian" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="20" style="vertical-align:middle;"/> linkedin.com/in/gerezfabian
   </a>  
-
-## 📌 Contenido
-
-- Presentación personal
-- Habilidades técnicas
-- Proyectos destacados
-- Contacto
 
 ## 👨‍💻 Sobre mí
 

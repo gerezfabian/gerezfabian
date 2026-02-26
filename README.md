@@ -70,9 +70,7 @@ Esta es mi carta de presentación digital. Aquí muestro quién soy, mis habilid
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de la carrera Licenciatura en Análisis de Sistemas, Curso de manera paralela la Tecnicatura en Seguridad Informática, soy apasionado por el **Desarrollo de Software** en todas sus formas, desde aplicaciones de escritorio hasta sistemas distribuidos, porque me permite aplicar lógica, optimización y escalabilidad.  
-
-Al mismo tiempo, disfruto del **Desarrollo Web**, creando interfaces interactivas y aplicaciones fullstack que conectan directamente con los usuarios. 
+Soy estudiante de Licenciatura en Análisis de Sistemas (UNSa), Titulo en Técnico Universitario en Programación (UNSa) y Tecnicatura en Seguridad Informática (UCASAL), soy apasionado por el **Desarrollo de Software** en todas sus formas, desde aplicaciones de escritorio hasta sistemas distribuidos, porque me permite aplicar lógica, optimización y escalabilidad.  
 
 Apasionado por la programación, la automatización y la optimización de procesos. Mi objetivo es convertirme en **Fullstack Developer**, dominando tanto frontend como backend, y documentar cada paso de mi aprendizaje de forma reproducible y profesional.
 

@@ -70,7 +70,7 @@ Esta es mi carta de presentación digital. Aquí muestro quién soy, mis habilid
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de Licenciatura en Análisis de Sistemas (UNSa), Titulo en Técnico Universitario en Programación (UNSa) y Tecnicatura en Seguridad Informática (UCASAL), soy apasionado por el **Desarrollo de Software** en todas sus formas, desde aplicaciones de escritorio hasta sistemas distribuidos, porque me permite aplicar lógica, optimización y escalabilidad.  
+Soy estudiante de Licenciatura en Análisis de Sistemas (UNSa) 3 año cursado, Titulo en Técnico Universitario en Programación (UNSa) y Titulo de Técnico en Seguridad Informática (UCASAL), soy apasionado por el **Desarrollo de Software** en todas sus formas, desde aplicaciones de escritorio hasta sistemas distribuidos, porque me permite aplicar lógica, optimización y escalabilidad.  
 
 Apasionado por la programación, la automatización y la optimización de procesos. Mi objetivo es convertirme en **Fullstack Developer**, dominando tanto frontend como backend, y documentar cada paso de mi aprendizaje de forma reproducible y profesional.
 
